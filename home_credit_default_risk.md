@@ -7,7 +7,7 @@
 - [日程](#日程)
 - [結果](#結果)
 - [振り返り](#振り返り)
-- [Google Colab](#Google Colab)
+- [Google Colab](#google-colab)
 - [参考リンク](#参考リンク)
 
 ### 日程
